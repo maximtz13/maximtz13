@@ -42,4 +42,4 @@ My name Is Maximo and I am a future Full-Stack Developer <img src="https://media
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=maximtz13&theme=dark&background=000000)](https://git.io/streak-stats)
 
-# [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maximtz13&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
